@@ -95,7 +95,7 @@ class StudentManger{
 
     // 각 객체를 생성한다.
     init{
-        scanner  = Scanner(System.in)
+        scanner  = Scanner(System.`in`)
 
         s1 = BasketBallStudent()
         s2 = BasketBallStudent()
