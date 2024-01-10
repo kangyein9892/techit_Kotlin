@@ -100,5 +100,5 @@ fun main(){
     println("[${str20}]")
     println("[${str20.trim()}")
 
-    
+
 }
